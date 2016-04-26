@@ -1,0 +1,55 @@
+Partlist
+
+Part         Value            
+
+5V           PIN-HEADER       
+12V+         PIN-HEADER       
+12VGND       PIN-HEADER       
+AC           QUICKCONNECT-TAB-6.35X0.81
+AC12V1       QUICKCONNECT-TAB-6.35X0.81
+AC12V2       QUICKCONNECT-TAB-6.35X0.81
+ACSENSE/A0   PIN-HEADER
+B1           3N259
+BUZZER/6     PIN-HEADER
+C1           1000uF/25V/E5-13
+C2           100n/C0603
+C3           100uF/16V/E2,5-7
+C4           100uF/16V/E2,5-7
+C6           100n/250V/C1210
+C7           10uF/50V/E2,5-5
+C8           100n/250V/C1210
+C9           100n/C0603
+C10          100n/C0603
+CS/10        PIN-HEADER
+D1           B230ADICT-ND/SMA/SMB
+D2           MA8051CT/SOD323-W
+D3           B230ADICT-ND/SMA/SMB
+D4           B230ADICT-ND/SMA/SMB
+FAN          QUICKCONNECT-TAB-6.35X0.81
+FANCTRL/3    PIN-HEADER
+HEATER1      QUICKCONNECT-TAB-6.35X0.81
+HEATERCTRL/2 PIN-HEADER
+MISO/12      PIN-HEADER
+OLED         4-PIN-WAFER-CONN
+R1           1k/R0603
+R2           1k/R0603
+R3           1k/R0603
+R4           150/R0603
+R5           4.7k/R0603
+R6           10k/R0603
+R7           120/0.5W/R1210
+R8           120/0.5W/R1210
+RLYFAN       HKE/HRM2H-S-DC12V-C
+RLYHEATER    HKE/HRM2H-S-DC12V-C
+SCK/13       PIN-HEADER
+SCL/A5       PIN-HEADER
+SDA/A4       PIN-HEADER
+SG1          PIEZO-BUZZER-12X7.5
+SW0/9        PIN-HEADER
+SW1/8        PIN-HEADER
+SWITCHLED    4-PIN-WAFER-CONN
+T1           MMBT3904FSCT-ND/SOT-23
+T2           MMBT3904FSCT-ND/SOT-23
+TC+          (solder thermocouple wire directly on pad)
+TC-          (solder thermocouple wire directly on pad)
+U1           MAX6675/SO-08
